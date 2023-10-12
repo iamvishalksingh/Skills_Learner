@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: auto;
+    padding-left: 35%;
+    margin-top: 15%;
+    
+}
+
+.on_tw{
+    font-size: large;
+    width: 50%;
+    background-color: rgb(235, 99, 8);
+    margin: 5px;
+}
+
+.three{
+    font-size: large;
+    width: 50%;
+    background-color: white;
+    
+}
+.fo_fi{
+    font-size: large;
+    width: 50%;
+    background-color: rgb(93, 237, 57);
+    margin: 5px;
+}
+
+#div1{
+
+    font-size: large;
+    align-items: center;
+}
